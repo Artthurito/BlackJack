@@ -1,10 +1,10 @@
 # BlackJack
-Jogo de Blackjack (21) em C
+## Jogo de Blackjack (21) em C
 Este é um projeto simples de um jogo de Blackjack (também conhecido como 21) desenvolvido inteiramente em linguagem C. O jogo é totalmente funcional e jogável diretamente no terminal.
 
 Este projeto foi criado como um exercício de aprendizado para praticar conceitos fundamentais da programação em C, como structs, arrays, funções, laços de repetição e lógica condicional.
 
-♠️ Funcionalidades
+## ♠️ Funcionalidades
 Baralho de 52 cartas gerado e embaralhado aleatoriamente a cada jogo.
 
 Turno do jogador com opções de Comprar (Hit) ou Parar (Stand).
@@ -19,7 +19,7 @@ Determinação clara do vencedor ao final da rodada (Jogador vence, Dealer vence
 
 Interface de texto simples e jogável diretamente no console.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Linguagem: C
 
 Bibliotecas Padrão: stdio.h, stdlib.h, time.h, locale.h
